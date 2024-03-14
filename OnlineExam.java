@@ -231,7 +231,7 @@ class OnlineTestBegin extends JFrame implements ActionListener {
     }
 }
 
-public class OnlineExamination {
+public class OnlineExam {
     public static void main(String args[]) {
         try {
             Login form = new Login();
